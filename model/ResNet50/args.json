@@ -1,0 +1,8 @@
+{
+ "gpu": true,
+ "model_name": "ResNet50",
+ "data_dir": "/Users/edwar/Dataset/Market1501/pytorch",
+ "train_all": true,
+ "color_jitter": true,
+ "batchsize": 32
+}

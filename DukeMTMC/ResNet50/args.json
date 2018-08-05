@@ -1,0 +1,8 @@
+{
+ "gpu": true,
+ "model_name": "ResNet50",
+ "data_dir": "//mnt/storage/scratch/xh17500/Dataset/DukeMTMC/pytorch",
+ "train_all": false,
+ "color_jitter": false,
+ "batchsize": 32
+}

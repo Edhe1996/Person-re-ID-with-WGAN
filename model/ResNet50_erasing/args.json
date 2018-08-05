@@ -1,0 +1,10 @@
+{
+ "gpu": true,
+ "model_name": "ResNet50_erasing",
+ "data_dir": "/mnt/storage/scratch/xh17500/Dataset/Market1501/pytorch",
+ "train_all": true,
+ "color_jitter": false,
+ "batchsize": 32,
+ "epoch": 60,
+ "erasing_p": 0.5
+}
