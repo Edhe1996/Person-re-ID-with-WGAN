@@ -1,4 +1,4 @@
-#Person re-identification with Wasserstein GAN
+# Person re-identification with Wasserstein GAN
 
 ## This is the pytorch version for implementing person re-identification (person re-ID) with ResNet50 model as baseline model and use WGAN, re-ranking and random erasing to improve the performance.
 
